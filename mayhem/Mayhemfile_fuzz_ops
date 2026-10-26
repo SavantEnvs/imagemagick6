@@ -1,0 +1,9 @@
+project: savantenvs/imagemagick6
+target: fuzz_ops
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_ops/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_ops
+    libfuzzer: true
+    timeout: 10

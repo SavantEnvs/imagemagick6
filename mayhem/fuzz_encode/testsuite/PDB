@@ -1,0 +1,35 @@
+/* XPM */
+static char *f[] = {
+/* columns rows colors chars-per-pixel */
+"24 16 13 1",
+"  c DarkSlateGray",
+". c #7E7E7E",
+"X c firebrick",
+"o c sienna",
+"O c tomato",
+"+ c SeaGreen",
+"@ c SlateGray",
+"# c tan",
+"$ c SkyBlue",
+"% c gainsboro",
+"& c LemonChiffon",
+"* c lavender",
+"= c white",
+/* pixels */
+"         oOOXooXo    @ .",
+"          XXoooo.    @..",
+"          oooooo#.   ...",
+"        oXXXXXooOOOO.%%.",
+"   $@  .XXXXOXXXoOOO#==&",
+"   @$@OOXXOXXXXOXoOO.%&&",
+"    .OOXXXOOOXXXXXOOo..#",
+"  o.#OXXXXOOOOOXOXOOo...",
+"  @$%.OOXXOOOOOOXXOo ..+",
+"  @$@ oOXXXXOOXOXXO ..+.",
+"  .@ .XXXXOOXXOXXXo   ..",
+"..    OXooOooXXoooo  ...",
+"..... oXXOXooooooo    .+",
+"....=% ##XXoooooo       ",
+"   #=%%==%ooooo o       ",
+" . #=%====*#.           "
+};
